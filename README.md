@@ -5,7 +5,7 @@ My name is Mayranne - but everybody calls me Dut! ✨
 
 <h4>💖 About me:</h4>
 
-- 🌱 I’m currently learning `HTML`, `CSS` & `JavaScript`.  
+- 🌱 I’m currently learning `HTML`, `CSS`, `JavaScript` & `React`.  
 - 📚 I'm self-taught programmer: thanks Udemy courses!  
 - 🔭 I’m currently working on creating webpages and learning how to progam.  
 - 💬 Let's talk about: What is the connection between developers and rubber ducks?
