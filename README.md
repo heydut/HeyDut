@@ -5,11 +5,11 @@ My name is Mayranne - but everybody calls me Dut! ✨
 
 <h4>💖 About me:</h4>
 
-- 🌱 I’m currently learning `HTML`, `CSS` & `JavaScript`.  
+- 🌱 I’m currently learning `JavaScript`, `React.js` & more about `UI/UX`.  
 - 📚 I recently completed the Master Software bootcamp at Codenation.
-- 🔭 I’m currently working on creating webpages and learning how to progam.  
-- 💬 Let's talk about: UI/UX and Design! I love that.
 - 💡 I'm looking for an opportunity to become a `junior UI/UX Designer` or `junior frontend web developer`.  
+- 🔭 I’m currently working on creating webpages and learning how to progam.  
+- 💬 Let's talk about: Design! I love that.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mayranne/">` LinkedIn `</a> • <a href="https://www.instagram.com/mayranne/">` Instagram `</a>  
 - 🍩 Fun fact: I couldn't live in a world without donuts.  
 
