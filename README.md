@@ -7,7 +7,7 @@ My name is Mayranne - but everybody calls me Dut! ✨
 
 - 💡 I’m currently working as a `frontend developer` and `designer`.
 - ⚙️ I use daily: `Next.js`, `TailwindCSS`, `Figma` and `Illustrator`.  
-- 🌱 I’m currently learning more about `UI/UX`.
+- 🌱 I’m currently learning more about `UI/UX` and `WordPress`.
 - 💬 Let's talk about: Design! I love that.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mayranne/">` LinkedIn `</a>
 
