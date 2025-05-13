@@ -11,10 +11,11 @@ My name is Mayranne - but everybody calls me Dut! ✨
 - 💬 Let's talk about: Design! I love that. ✨
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mayranne/">` LinkedIn `</a>
 
-<h4>👩🏻‍💻 My portfolio: <a href="https://www.dut.dev/"> dut.dev </a></h4>
+
 
 
 <!--
+<h4>👩🏻‍💻 My portfolio: <a href="https://www.dut.dev/"> dut.dev </a></h4>
 Here are some ideas to get you started:
 - ⚙️ I use daily: .html, .css, .psd 
 - 🔭 I’m currently working on ...
